@@ -66,3 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# rearrange
+Letter rearrange to make it a complete word. Each rearrange has a defined time and a hint. When the time ends it will show a link to auto-correct the word. 
